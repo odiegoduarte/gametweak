@@ -23,8 +23,8 @@
 Jogos | Argumentos | S.O | Extras
 ------------ | -------------| ------------- | -------------
 CS GO |-novid -forcenovsync -nojoy -high  | <img width="25" height="" src="assets/so/linux.png"> <img width="23" height="" src="assets/so/windows.png"> | [Valve Wiki](https://developer.valvesoftware.com/wiki/Console_Command_List)
-BioShock | PROTON_NO_D3D11=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png"> | [Wiki PCGaming](https://www.pcgamingwiki.com/wiki/BioShock)
-BioShock Remastered | PROTON_USE_WINED3D10=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png"> | [Wiki PCGaming](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)
+BioShock | PROTON_NO_D3D11=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png"> | [Wiki](https://www.pcgamingwiki.com/wiki/BioShock)
+BioShock Remastered | PROTON_USE_WINED3D10=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png"> | [Wiki](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)
 Texto 1 | Texto 2 | Texto 3 | Texto 4
 
 <br> <br> <br>
