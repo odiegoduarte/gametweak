@@ -20,12 +20,12 @@
 
 <br>
 
-Jogos | Argumentos | S.O | Extras
------------- | -------------| ------------- | -------------
-CS GO |-novid -forcenovsync -nojoy -high  | <img width="25" height="" src="assets/so/linux.png"> <img width="23" height="" src="assets/so/windows.png"> | [Wiki](https://developer.valvesoftware.com/wiki/Console_Command_List)
-BioShock|PROTON_NO_D3D11=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png"> | [Wiki](https://www.pcgamingwiki.com/wiki/BioShock)
-BioShock Remastered|PROTON_USE_WINED3D10=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png"> | [Wiki](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)
-Texto 1 | Texto 2 | IMG | Wiki
+Jogos | Argumentos | S.O
+------------ | -------------| -------------
+[CS GO](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -forcenovsync -nojoy -high  | <img width="25" height="" src="assets/so/linux.png"> <img width="23" height="" src="assets/so/windows.png">
+[BioShock](https://www.pcgamingwiki.com/wiki/BioShock)|PROTON_NO_D3D11=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png">
+[BioShock Remastered](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)|PROTON_USE_WINED3D10=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png">
+[Jogo]() | argumentos | IMG
 
 <br> <br> <br>
 
