@@ -15,12 +15,13 @@
 
 <br>
 
-Jogos | Argumentos | S.O
+Jogos | Argumentos Opcionais| S.O
 ------------ | -------------| -------------
 [CS GO](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -forcenovsync -nojoy -high  | <img width="25" height="" src="assets/so/linux.png"> <img width="23" height="" src="assets/so/windows.png">
 [BioShock](https://www.pcgamingwiki.com/wiki/BioShock)|PROTON_NO_D3D11=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png">
 [BioShock Remastered](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)|PROTON_USE_WINED3D10=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png">
 [Gris](https://www.pcgamingwiki.com/wiki/GRIS) | [Proton GloriousEggroll](https://github.com/GloriousEggroll/proton-ge-custom/releases) | <img width="25" height="" src="assets/so/linux.png">
+[The Forest](https://www.pcgamingwiki.com/wiki/The_Forest) | PROTON_NO_FSYNC=1 taskset -c 0,1,2,3 %command% | <img width="25" height="" src="assets/so/linux.png">
 [Jogo]() | argumentos | IMG
 
 <br> <br>
