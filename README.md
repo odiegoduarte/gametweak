@@ -15,20 +15,31 @@
 
 <br>
 
-
-
-
-<br>
-
 Jogos | Argumentos | S.O
 ------------ | -------------| -------------
 [CS GO](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -forcenovsync -nojoy -high  | <img width="25" height="" src="assets/so/linux.png"> <img width="23" height="" src="assets/so/windows.png">
 [BioShock](https://www.pcgamingwiki.com/wiki/BioShock)|PROTON_NO_D3D11=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png">
 [BioShock Remastered](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)|PROTON_USE_WINED3D10=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png">
+[Gris](https://www.pcgamingwiki.com/wiki/GRIS) | [Proton GloriousEggroll](https://github.com/GloriousEggroll/proton-ge-custom/releases) | <img width="25" height="" src="assets/so/linux.png">
 [Jogo]() | argumentos | IMG
 
-<br> <br> <br>
+<br> <br>
 
+### Runtime Proton Steam Play
+
+<br>
+
+Runtime | Variável de ambiente | Descrição
+------------ | -------------| -------------
+wined3d | PROTON_USE_WINED3D | Use wined3d baseado em OpenGL em vez de DXVK baseado em Vulkan para d3d11, d3d10 e d3d9.
+nod3d11 | PROTON_NO_D3D11	| Desative d3d11.dll , para jogos d3d11 que podem voltar e rodar melhor com d3d9.
+nod3d10 | PROTON_NO_D3D10	| Desative d3d10.dll e dxgi.dll , para jogos d3d10 que podem voltar e rodar melhor com d3d9.
+forcelgadd | PROTON_FORCE_LARGE_ADDRESS_AWARE | Força o Wine a habilitar o sinalizador LARGE_ADDRESS_AWARE para todos os executáveis. Ativado por padrão.
+d9vk | PROTON_USE_D9VK | Nota: Obsoleto no Proton 5.0. Em versões anteriores, use DXVK baseado em Vulkan em vez de wined3d baseado em OpenGL para d3d9.
+seccomp | PROTON_USE_SECCOMP | Habilite o filtro seccomp-bpf para emular syscalls nativos, necessários para algumas proteções DRM funcionarem.
+
+
+<br> <br> <br>
 
 ### Comandos para CS GO
 valor "1" ativo valor "0" desativado.
@@ -61,7 +72,11 @@ Para jogos que utilizem as engines Goldsrc e Source.
 
 - [Steam Definindo opções de inicialização de jogos](https://support.steampowered.com/kb_article.php?ref=1040-JWMT-2947&l&l=brazilian)
 - [Valve Lista de Comandos do Console](https://developer.valvesoftware.com/wiki/Console_Command_List)
-- [NomeSite](https://odiegoduarte.github.io)
+- [ValveSoftware Steamplay Github](https://github.com/ValveSoftware/Proton/blob/proton_5.0/README.md)
+- [GloriousEggroll ProtonGE](https://github.com/GloriousEggroll/proton-ge-custom)
+- [Protondb](https://www.protondb.com/)    
+- [WineHQ](https://wiki.winehq.org/Download)
+
 - [NomeSite](https://odiegoduarte.github.io)
 
 
