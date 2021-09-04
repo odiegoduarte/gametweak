@@ -21,6 +21,7 @@ Jogos | Argumentos Opcionais| S.O
 [BioShock](https://www.pcgamingwiki.com/wiki/BioShock)|PROTON_NO_D3D11=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png">
 [BioShock Remastered](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)|PROTON_USE_WINED3D10=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png">
 [Gris](https://www.pcgamingwiki.com/wiki/GRIS) | [Proton GloriousEggroll](https://github.com/GloriousEggroll/proton-ge-custom/releases) | <img width="25" height="" src="assets/so/linux.png">
+[Left 4 Dead 2](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -language portuguese brasil  | <img width="25" height="" src="assets/so/linux.png"> <img width="23" height="" src="assets/so/windows.png">
 [The Forest](https://www.pcgamingwiki.com/wiki/The_Forest) | PROTON_NO_FSYNC=1 taskset -c 0,1,2,3 %command% | <img width="25" height="" src="assets/so/linux.png">
 [Jogo]() | argumentos | IMG
 
@@ -64,7 +65,7 @@ Para jogos que utilizem as engines Goldsrc e Source.
 - -windowed - Força a engine a iniciar em modo janela.
 - -refresh <taxa>  -  Força uma taxa de atualização específica.
 - -novid - Ao iniciar um jogo com esse parâmetro, o vídeo de introdução da Valve não será reproduzido.
-
+- -language portuguese brasil - Define idioma para jogo caso tenha suporte
 
 
 <br> <br> <br>
