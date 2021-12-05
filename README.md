@@ -1,4 +1,18 @@
+<br>
 
+<h1 align="center">Game Tweak</h1>
+
+<br>
+
+#### Abrir pasta do jogo, botão direito em cima de um jogo na steam > Propiedades > Arquivos Locais > Procurar
+
+<br>
+
+Jogos | Local do arquivo | Tweak | S.O
+------------ | ------------- | ------------- | -------------
+[El Matador](https://www.pcgamingwiki.com/wiki/El_Matador) | /common/El Matador | [FOV HUD Fix, Wide, Ultra Wide e 4K](https://community.pcgamingwiki.com/files/file/1496-el-matador-fov-and-hud-fix/) | <img width="25" height="" src="assets/so/linux.png"> <img width="23" height="" src="assets/so/windows.png">
+[Viscera Cleanup Detail](https://www.pcgamingwiki.com/wiki/Viscera_Cleanup_Detail) |/common/Viscera/Engine/Config/BaseEngine.ini | bSmoothFrameRate=FALSE | <img width="25" height="" src="assets/so/linux.png"> <img width="23" height="" src="assets/so/windows.png">
+[Viscera Cleanup Detail](https://www.pcgamingwiki.com/wiki/Viscera_Cleanup_Detail) |/common/Viscera/UDKGame/Config/UDKEngine.ini | bSmoothFrameRate=FALSE | <img width="25" height="" src="assets/so/linux.png"> <img width="23" height="" src="assets/so/windows.png">
 <br>
 
 <h1 align="center">Steam Game Launch Options</h1>
@@ -22,6 +36,7 @@ Jogos | Argumentos Opcionais| S.O
 [BioShock Remastered](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)|PROTON_USE_WINED3D10=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/so/linux.png">
 [Gris](https://www.pcgamingwiki.com/wiki/GRIS) | [Proton GloriousEggroll](https://github.com/GloriousEggroll/proton-ge-custom/releases) | <img width="25" height="" src="assets/so/linux.png">
 [Left 4 Dead 2](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -language portuguese brasil  | <img width="25" height="" src="assets/so/linux.png"> <img width="23" height="" src="assets/so/windows.png">
+[Team Fortress 2](https://www.pcgamingwiki.com/wiki/Team_Fortress_2) | -novid | <img width="25" height="" src="assets/so/linux.png"> <img width="23" height="" src="assets/so/windows.png">
 [The Forest](https://www.pcgamingwiki.com/wiki/The_Forest) | PROTON_NO_FSYNC=1 taskset -c 0,1,2,3 %command% | <img width="25" height="" src="assets/so/linux.png">
 [Valheim](https://www.pcgamingwiki.com/wiki/Valheim) | ./start_game_bepinex.sh %command%  (MOD)| <img width="25" height="" src="assets/so/linux.png">
 [Jogo]() | argumentos | IMG
