@@ -35,8 +35,8 @@ Jogos | Argumentos Opcionais| S.O
 [Left 4 Dead 2](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -language portuguese brasil  |<img width="50" height="" src="/assets/icons/os.png">
 [Team Fortress 2](https://www.pcgamingwiki.com/wiki/Team_Fortress_2) | -novid | <img width="50" height="" src="/assets/icons/os.png">
 [The Forest](https://www.pcgamingwiki.com/wiki/The_Forest) | PROTON_NO_FSYNC=1 taskset -c 0,1,2,3 %command% | <img width="25" height="" src="/assets/icons/linux.png">
-[Valheim](https://www.pcgamingwiki.com/wiki/Splitgate) | ./start_game_bepinex.sh %command%  (MOD)| <img width="25" height="" src="assets/icons/linux.png">
-[Slitgate](Splitgate) | -windowed | <img width="50" height="" src="/assets/icons/os.png">
+[Valheim](https://www.pcgamingwiki.com/wiki/Valheim) | ./start_game_bepinex.sh %command%  (MOD)| <img width="25" height="" src="assets/icons/linux.png">
+[Splitgate](https://www.pcgamingwiki.com/wiki/Splitgate) | -windowed | <img width="50" height="" src="/assets/icons/os.png">
 [Jogo]() | argumentos | <img width="25" height="" src="/assets/icons/linux.png"> <img width="23" height="" src="/assets/icons/windows.png">
 
 <br> <br>
