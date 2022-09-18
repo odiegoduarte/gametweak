@@ -9,6 +9,7 @@ Jogos | Local do arquivo | Tweak | S.O
 [El Matador](https://www.pcgamingwiki.com/wiki/El_Matador) | /El Matador | [FOV HUD Fix, Wide, Ultra Wide e 4K](https://community.pcgamingwiki.com/files/file/1496-el-matador-fov-and-hud-fix/) | <img width="50" height="" src="/assets/icons/os.png">
 [Viscera Cleanup Detail](https://www.pcgamingwiki.com/wiki/Viscera_Cleanup_Detail) |Viscera/Engine/Config/BaseEngine.ini | bSmoothFrameRate=FALSE | <img width="50" height="" src="/assets/icons/os.png">
 [Viscera Cleanup Detail](https://www.pcgamingwiki.com/wiki/Viscera_Cleanup_Detail) |Viscera/UDKGame/Config/UDKEngine.ini | bSmoothFrameRate=FALSE | <img width="50" height="" src="/assets/icons/os.png">
+[7 Days to Die](https://www.pcgamingwiki.com/wiki/7_Days_to_Die) |F1 para abrir o console | [Click aqui para ir para os comandos](/games/7dtd.md) | <img width="50" height="" src="/assets/icons/os.png">
 
 <br><br>
 
