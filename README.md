@@ -1,15 +1,16 @@
 <br>
 
-<h1 align="center">Game Tweak</h1>
+<h1 align="center">Game Tweak <img width="50" height="" src="/assets/icons/os.png"> </h1>
 
 <br><br>
 
-Jogos | Local do arquivo | Tweak | S.O
------------- | ------------- | ------------- | -------------
-[El Matador](https://www.pcgamingwiki.com/wiki/El_Matador) | /El Matador | [FOV HUD Fix, Wide, Ultra Wide e 4K](https://community.pcgamingwiki.com/files/file/1496-el-matador-fov-and-hud-fix/) | <img width="50" height="" src="/assets/icons/os.png">
-[Viscera Cleanup Detail](https://www.pcgamingwiki.com/wiki/Viscera_Cleanup_Detail) |Viscera/Engine/Config/BaseEngine.ini | bSmoothFrameRate=FALSE | <img width="50" height="" src="/assets/icons/os.png">
-[Viscera Cleanup Detail](https://www.pcgamingwiki.com/wiki/Viscera_Cleanup_Detail) |Viscera/UDKGame/Config/UDKEngine.ini | bSmoothFrameRate=FALSE | <img width="50" height="" src="/assets/icons/os.png">
-[7 Days to Die](https://www.pcgamingwiki.com/wiki/7_Days_to_Die) |F1 para abrir o console | [Click aqui para ir para os comandos](/games/7dtd.md) | <img width="50" height="" src="/assets/icons/os.png">
+Jogos | Descrição | Tweak
+------------ | ------------- | ------------- 
+CS GO| " para abrir o console | [Ir para pagina de comandos](/games/csgo.md)
+El Matador | FOV HUD Fix, Wide, Ultra Wide e 4K | [Ir para pagina de Tweak](/games/elmatador.md)
+Viscera Cleanup Detail| Melhorar desempenho do jogo | [Ir para pagina de Tweak](/games/vcd.md)
+7 Days to Die |F1 para abrir o console | [Ir para pagina de Tweak](/games/7dtd.md)
+Valheim | F5 para abrir o console | [Ir para pagina de Tweak](/games/valheim.md)
 
 <br><br>
 
@@ -24,19 +25,21 @@ Jogos | Local do arquivo | Tweak | S.O
 - Na aba Geral, haverá a seção Opções de inicialização.
 - Insira as opções de inicialização que deseja aplicar (separando-as com espaços).
 - Feche a janela de Propriedades do jogo e inicie-o.
+- *Argumento "-vulkan" não funciona no Windows
 
 <br>
 
 Jogos | Argumentos Opcionais| S.O
 ------------ | -------------| -------------
-[CS GO](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -forcenovsync -nojoy -high -full  | <img width="50" height="" src="/assets/icons/os.png">
+[CS GO](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -forcenovsync -nojoy -high -full -vulkan | <img width="50" height="" src="/assets/icons/os.png">
+[Dota 2](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -vunkan -w 2560 -h 1080  | <img width="50" height="" src="/assets/icons/os.png">
 [BioShock](https://www.pcgamingwiki.com/wiki/BioShock)|PROTON_NO_D3D11=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/icons/linux.png">
 [BioShock Remastered](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)|PROTON_USE_WINED3D10=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="/assets/icons/linux.png">
 [Gris](https://www.pcgamingwiki.com/wiki/GRIS) | [Proton GloriousEggroll](https://github.com/GloriousEggroll/proton-ge-custom/releases) | <img width="25" height="" src="/assets/icons/linux.png">
-[Left 4 Dead 2](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -language portuguese brasil  |<img width="50" height="" src="/assets/icons/os.png">
+[Left 4 Dead 2](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -language portuguese brasil | <img width="50" height="" src="/assets/icons/os.png">
 [Team Fortress 2](https://www.pcgamingwiki.com/wiki/Team_Fortress_2) | -novid | <img width="50" height="" src="/assets/icons/os.png">
 [The Forest](https://www.pcgamingwiki.com/wiki/The_Forest) | PROTON_NO_FSYNC=1 taskset -c 0,1,2,3 %command% | <img width="25" height="" src="/assets/icons/linux.png">
-[Valheim](https://www.pcgamingwiki.com/wiki/Valheim) | ./start_game_bepinex.sh %command%  (MOD)| <img width="25" height="" src="assets/icons/linux.png">
+[Valheim](https://www.pcgamingwiki.com/wiki/Valheim) | -console|  <img width="50" height="" src="/assets/icons/os.png">
 [Splitgate](https://www.pcgamingwiki.com/wiki/Splitgate) | -windowed | <img width="50" height="" src="/assets/icons/os.png">
 [Jogo]() | argumentos | <img width="25" height="" src="/assets/icons/linux.png"> <img width="23" height="" src="/assets/icons/windows.png">
 
@@ -76,27 +79,6 @@ api | Mostra o nível de recurso D3D pela
 cs | Mostra as estatísticas do thread de trabalho
 compiler | Mostra a atividade do shader compiler
 scale=x | dimensiona o HUD por um fator de x(por exemplo 1.5)
-
-<br> <br> <br>
-
-### <img width="50" height="" src="/assets/icons/os.png"> Comandos para CS GO
-
->*Valor "1" ativo valor "0" desativado.*
-
-Comando | Descrição
------------- | -------------
-cl_showfps 1 | Mostra os FPS.
-net_graph 1 | Mostra fps, ping, loss, choke, tick e var.
-cl_righthand 0 | Troca a arma da mão direita para esquerda.
-bindtoggle v cl_righthand | Define tecla V para trocar a arma de mão.
-hud_scaling 0.70 | Tamanho da HUD, mínimo é 0.5 e o máximo é 0.95
-cl_radar_always_centered | Centraliza o radar.
-cl_radar_scale 1 | Escala do mapa dentro do radar 0 visão próxima 1 afastada.
-cl_radar_rotate 0 | comando para que o radar gire conforme você gira padrão é 1.
-cl_show_team_equipment | Mostra armas e utilitários dos aliados sobre a cabeça.
-voice_enable 0 | Desabilita o VOIP em game.
-bot_add | Adiciona boots.
-kill |  Comando para matar seu personagem.
 
 <br>
 
@@ -142,6 +124,7 @@ screen-width  | Alterar a largura padrão da tela.
 - [ValveSoftware Steamplay Github](https://github.com/ValveSoftware/Proton/blob/proton_5.0/README.md)
 - [GloriousEggroll ProtonGE](https://github.com/GloriousEggroll/proton-ge-custom)
 - [Unity Documentation](https://docs.unity3d.com/Manual/PlayerCommandLineArguments.html)
+- [PCGamingWiki](https://www.pcgamingwiki.com/wiki/)
 - [Proton Wiki](https://github.com/ValveSoftware/Proton/wiki)
 - [Protondb](https://www.protondb.com/)
 - [WineHQ](https://wiki.winehq.org/Download)
