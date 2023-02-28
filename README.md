@@ -10,6 +10,7 @@ CS GO| " para abrir o console | [Ir para pagina de comandos](/games/csgo.md)
 El Matador | FOV HUD Fix, Wide, Ultra Wide e 4K | [Ir para pagina de Tweak](/games/elmatador.md)
 Viscera Cleanup Detail| Melhorar desempenho do jogo | [Ir para pagina de Tweak](/games/vcd.md)
 7 Days to Die |F1 para abrir o console | [Ir para pagina de Tweak](/games/7dtd.md)
+Tomb Raider (2013)| Tweaks | [Ir para pagina de Tweak](/games/tombraider.md)
 Valheim | F5 para abrir o console | [Ir para pagina de Tweak](/games/valheim.md)
 
 <br><br>

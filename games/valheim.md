@@ -87,5 +87,5 @@ recall [name]| Chama de volta todos os jogadores para você, ou nome corresponde
 ### Referências
 
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Valheim)
-- [IGN Wiki All Commands]([link](https://www.ign.com/wikis/valheim/Cheats_and_Codes_List_(Console_Commands)))
+- [IGN Wiki All Commands](https://www.ign.com/wikis/valheim/Cheats_and_Codes_List_(Console_Commands))
 - [valheim Mods](https://valheim.thunderstore.io/)

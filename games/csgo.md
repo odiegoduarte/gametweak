@@ -9,6 +9,7 @@ Comandos | Descrição
 ------------ | -------------
 cl_showfps 1 | Mostra os FPS.
 net_graph 1 | Mostra fps, ping, loss, choke, tick e var.
+net_graphheight 64 | Esta é a configuração de altura padrão do net graph
 cl_righthand 0 | Troca a arma da mão direita para esquerda.
 bindtoggle v cl_righthand | Define tecla V para trocar a arma de mão.
 hud_scaling 0.70 | Tamanho da HUD, mínimo é 0.5 e o máximo é 0.95

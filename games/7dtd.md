@@ -55,6 +55,14 @@ gfx dt enable 0
 
 <br><br>
 
+### Mods
+
+Nome | Descrição |  | S.O
+------------ | -------------  | -------------  | -------------
+A20SPAZ | HUD | [Baixar](https://www.nexusmods.com/7daystodie/mods/1781) | <img width="50" height="" src="/assets/icons/os.png">
+Bigger BackPack | Aumenta quantidade de itens na mochila| [Baixar](https://www.nexusmods.com/7daystodie/mods/305) | <img width="50" height="" src="/assets/icons/os.png">
+HitBar Health Bar | Barra de Sáude dos inimigos| [Baixar](https://www.nexusmods.com/7daystodie/mods/883) | <img width="50" height="" src="/assets/icons/os.png">
+
 ### Referências
 
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/7_Days_to_Die)
