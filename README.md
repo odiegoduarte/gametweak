@@ -5,7 +5,8 @@
 <br><br>
 
 Jogos | Descrição | Tweak
------------- | ------------- | ------------- 
+------------ | ------------- | -------------
+BioShock Remastered | Tweak | [Ir para pagina de Tweak](/games/bioShockremastered.md) 
 CS GO| " para abrir o console | [Ir para pagina de comandos](/games/csgo.md)
 El Matador | FOV HUD Fix, Wide, Ultra Wide e 4K | [Ir para pagina de Tweak](/games/elmatador.md)
 Viscera Cleanup Detail| Melhorar desempenho do jogo | [Ir para pagina de Tweak](/games/vcd.md)
@@ -30,18 +31,19 @@ Valheim | F5 para abrir o console | [Ir para pagina de Tweak](/games/valheim.md)
 
 <br>
 
-Jogos | Argumentos Opcionais| S.O
+Jogos | Argumentos | S.O
 ------------ | -------------| -------------
-[CS GO](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -forcenovsync -nojoy -high -full -vulkan | <img width="50" height="" src="/assets/icons/os.png">
-[Dota 2](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -vunkan -w 2560 -h 1080  | <img width="50" height="" src="/assets/icons/os.png">
-[BioShock](https://www.pcgamingwiki.com/wiki/BioShock)|PROTON_NO_D3D11=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="assets/icons/linux.png">
-[BioShock Remastered](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)|PROTON_USE_WINED3D10=1 PROTON_NO_ESYNC=1 %command% | <img width="25" height="" src="/assets/icons/linux.png">
-[Gris](https://www.pcgamingwiki.com/wiki/GRIS) | [Proton GloriousEggroll](https://github.com/GloriousEggroll/proton-ge-custom/releases) | <img width="25" height="" src="/assets/icons/linux.png">
-[Left 4 Dead 2](https://developer.valvesoftware.com/wiki/Console_Command_List) |-novid -language portuguese brasil | <img width="50" height="" src="/assets/icons/os.png">
-[Team Fortress 2](https://www.pcgamingwiki.com/wiki/Team_Fortress_2) | -novid | <img width="50" height="" src="/assets/icons/os.png">
-[The Forest](https://www.pcgamingwiki.com/wiki/The_Forest) | PROTON_NO_FSYNC=1 taskset -c 0,1,2,3 %command% | <img width="25" height="" src="/assets/icons/linux.png">
-[Valheim](https://www.pcgamingwiki.com/wiki/Valheim) | -console|  <img width="50" height="" src="/assets/icons/os.png">
-[Splitgate](https://www.pcgamingwiki.com/wiki/Splitgate) | -windowed | <img width="50" height="" src="/assets/icons/os.png">
+CS GO |-novid -forcenovsync -nojoy -high -full -vulkan | <img width="50" height="" src="/assets/icons/os.png">
+Dota 2 |-novid -vunkan -w 2560 -h 1080  | <img width="50" height="" src="/assets/icons/os.png">
+BioShock Remastered | bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Build\/Final\/BioshockHD.exe}"' -- %command% -nointro| <img width="25" height="" src="/assets/icons/linux.png">
+BioShock Remastered 2| bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Build\/Final\/Bioshock2HD.exe}"' -- %command% -nointro | <img width="25" height="" src="/assets/icons/linux.png">
+BioShock Infinite | bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Binaries\/Win32\/BioShockInfinite.exe}"' -- %command% -nointro | <img width="25" height="" src="/assets/icons/linux.png">
+Gris | -window-mode exclusive | <img width="25" height="" src="/assets/icons/os.png">
+Left 4 Dead 2 |-novid -language portuguese brasil | <img width="50" height="" src="/assets/icons/os.png">
+Team Fortress 2 | -novid | <img width="50" height="" src="/assets/icons/os.png">
+The Forest | PROTON_NO_FSYNC=1 taskset -c 0,1,2,3 %command% | <img width="25" height="" src="/assets/icons/linux.png">
+Valheim | -console|  <img width="50" height="" src="/assets/icons/os.png">
+Splitgate | -windowed | <img width="50" height="" src="/assets/icons/os.png">
 [Jogo]() | argumentos | <img width="25" height="" src="/assets/icons/linux.png"> <img width="23" height="" src="/assets/icons/windows.png">
 
 <br> <br>

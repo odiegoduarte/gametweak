@@ -39,5 +39,6 @@ Recoil Master Training | https://steamcommunity.com/sharedfiles/filedetails/?id=
 
 ### Referências
 
+- [Counter-Strike: Console Command List](https://developer.valvesoftware.com/wiki/Console_Command_List)
 - [Counter-Strike: Global Offensive Workshop](https://steamcommunity.com/app/730/workshop/)
 - [Todos os Comandos do CSGO](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
