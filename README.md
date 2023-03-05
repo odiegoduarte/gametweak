@@ -35,10 +35,10 @@ Jogos | Argumentos | S.O
 ------------ | -------------| -------------
 CS GO |-novid -forcenovsync -nojoy -high -full -vulkan | <img width="50" height="" src="/assets/icons/os.png">
 Dota 2 |-novid -vunkan -w 2560 -h 1080  | <img width="50" height="" src="/assets/icons/os.png">
-BioShock Remastered | bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Build\/Final\/BioshockHD.exe}"' -- %command% -nointro| <img width="25" height="" src="/assets/icons/linux.png">
-BioShock Remastered 2| bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Build\/Final\/Bioshock2HD.exe}"' -- %command% -nointro | <img width="25" height="" src="/assets/icons/linux.png">
-BioShock Infinite | bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Binaries\/Win32\/BioShockInfinite.exe}"' -- %command% -nointro | <img width="25" height="" src="/assets/icons/linux.png">
-Gris | -window-mode exclusive | <img width="25" height="" src="/assets/icons/os.png">
+BioShock Remastered | [Argumentos ->](/games/bioShockargumentos.md) | <img width="25" height="" src="/assets/icons/linux.png">
+BioShock Remastered 2| [Argumentos ->](/games/bioShockargumentos.md) | <img width="25" height="" src="/assets/icons/linux.png">
+BioShock Infinite | [Argumentos ->](/games/bioShockargumentos.md) | <img width="25" height="" src="/assets/icons/linux.png">
+Gris | -window-mode exclusive | <img width="50" height="" src="/assets/icons/os.png">
 Left 4 Dead 2 |-novid -language portuguese brasil | <img width="50" height="" src="/assets/icons/os.png">
 Team Fortress 2 | -novid | <img width="50" height="" src="/assets/icons/os.png">
 The Forest | PROTON_NO_FSYNC=1 taskset -c 0,1,2,3 %command% | <img width="25" height="" src="/assets/icons/linux.png">

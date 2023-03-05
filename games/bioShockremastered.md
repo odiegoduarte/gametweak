@@ -9,6 +9,13 @@ S.O | Pasta Save Game
 
 <br>
 
+### Argumento de inicialização bypass no Laucher da 2K
+~~~
+bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Build\/Final\/BioshockHD.exe}"' -- %command% -nointro
+~~~
+
+<br>
+
 ### Tradução PT-BR
 
 - Download da tradução [Tribo Gamer](https://tribogamer.com/noticias/42393_traducao-bioshock-remastered.html)
@@ -55,3 +62,5 @@ CacheSizeMegs=512
 
 
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)
+- [GamingOnLinux](https://www.gamingonlinux.com/2022/09/various-bioshock-games-get-a-2k-launcher-calling-it-a-quality-of-life-update/)
+- [ProtonDB](https://www.protondb.com/app/409710)
