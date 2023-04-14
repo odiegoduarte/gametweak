@@ -1,9 +1,15 @@
 
 <h1 align="center">Counter-Strike: Global Offensive <img width="55" height="" src="/assets/icons/os.png"></h1>
 <h4 align="center">Dentro do jogo aperte " para abrir o console</h4>
+
 <br>
 
->*Valor "1" ativo valor "0" desativado.*
+Opções de Inicialização | S.O
+-------------| -------------
+-novid -forcenovsync -nojoy -high -full -vulkan | <img width="25" height="" src="/assets/icons/linux.png">
+-novid -forcenovsync -nojoy -high -full | <img width="50" height="" src="/assets/icons/os.png">
+
+<br> 
 
 Comandos | Descrição
 ------------ | -------------
@@ -21,6 +27,14 @@ voice_enable 0 | Desabilita o VOIP em game.
 bot_add | Adiciona bots.
 bot_kick | Remove os bots.
 kill |  Comando para matar seu personagem.
+cl_interp_ratio | Este comando define a quantidade de interpolação. 
+cl_interp_ratio 0.5 | ping 1-29
+cl_interp_ratio 1 | ping 30-59
+cl_interp_ratio 2 | ping 60-89
+cl_lagcompensation 1 | Compensar o atraso do lado do servidor.
+net_maxroutable 1200 | Define o tamanho máximo do pacote para o cliente.
+cl_cmdrate 128 | Define quantidade de  pacotes são enviados cliente / servidor
+cl_updaterate 128 | Define requisição maxima de pacotes solicitado ao servidor.
 
 <br>
 
@@ -42,3 +56,4 @@ Recoil Master Training | https://steamcommunity.com/sharedfiles/filedetails/?id=
 - [Counter-Strike: Console Command List](https://developer.valvesoftware.com/wiki/Console_Command_List)
 - [Counter-Strike: Global Offensive Workshop](https://steamcommunity.com/app/730/workshop/)
 - [Todos os Comandos do CSGO](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
+- [Total CSGO Commands List](https://totalcsgo.com/commands)

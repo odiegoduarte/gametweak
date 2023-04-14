@@ -2,6 +2,10 @@
 
 <h1 align="center">Game Tweak <img width="50" height="" src="/assets/icons/os.png"> </h1>
 
+<br>
+
+> Olá! Bem-vindo ao meu repositório Game Tweak . Aqui, você encontrará uma coleção de modificações que eu fiz em alguns jogos com o objetivo de melhorar a jogabilidade, gráficos, recursos e outros aspectos.
+
 <br><br>
 
 Jogos | Descrição | Tweak
@@ -33,7 +37,7 @@ Valheim | F5 para abrir o console | [Ir para pagina de Tweak](/games/valheim.md)
 
 Jogos | Argumentos | S.O
 ------------ | -------------| -------------
-CS GO |-novid -forcenovsync -nojoy -high -full -vulkan | <img width="50" height="" src="/assets/icons/os.png">
+CS GO |-novid -forcenovsync -nojoy -high -full | <img width="50" height="" src="/assets/icons/os.png">
 Dota 2 |-novid -vunkan -w 2560 -h 1080  | <img width="50" height="" src="/assets/icons/os.png">
 BioShock Remastered | [Argumentos ->](/games/bioShockargumentos.md) | <img width="25" height="" src="/assets/icons/linux.png">
 BioShock Remastered 2| [Argumentos ->](/games/bioShockargumentos.md) | <img width="25" height="" src="/assets/icons/linux.png">
