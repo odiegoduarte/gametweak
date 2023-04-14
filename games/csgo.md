@@ -1,13 +1,13 @@
 
-<h1 align="center">Counter-Strike: Global Offensive <img width="55" height="" src="/assets/icons/os.png"></h1>
+<h1 align="center">Counter-Strike: Global Offensive <img width="55" height="" src="_layouts/assets/icons/os.png"></h1>
 <h4 align="center">Dentro do jogo aperte " para abrir o console</h4>
 
 <br>
 
 Opções de Inicialização | S.O
 -------------| -------------
--novid -forcenovsync -nojoy -high -full -vulkan | <img width="25" height="" src="/assets/icons/linux.png">
--novid -forcenovsync -nojoy -high -full | <img width="50" height="" src="/assets/icons/os.png">
+-novid -forcenovsync -nojoy -high -full -vulkan | <img width="25" height="" src="_layouts/assets/icons/linux.png">
+-novid -forcenovsync -nojoy -high -full | <img width="50" height="" src="/_layouts/assets/icons/os.png">
 
 <br> 
 

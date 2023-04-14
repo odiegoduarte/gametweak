@@ -1,12 +1,12 @@
 
-<h1 align="center">7 Days to Die Tweak <img width="55" height="" src="/assets/icons/os.png"></h1>
+<h1 align="center">7 Days to Die Tweak <img width="55" height="" src="_layouts/assets/icons/os.png"></h1>
 <h4 align="center">Dentro do jogo aperte F1 para abrir o console</h4>
 <br><br>
 
 S.O | Pasta Save Game
 ------------ | -------------
-<img width="25" height="" src="/assets/icons/linux.png"> | ~/.local/share/7DaysToDie/Saves/
-<img width="23" height="" src="/assets/icons/windows.png"> | %APPDATA%\7DaysToDie\Saves\
+<img width="25" height="" src="_layouts/assets/icons/linux.png"> | ~/.local/share/7DaysToDie/Saves/
+<img width="23" height="" src="_layouts/assets/icons/windows.png"> | %APPDATA%\7DaysToDie\Saves\
 Mac | ~/Library/Application Support/7DaysToDie/Saves/
 
 <br>

@@ -1,11 +1,11 @@
-<h1 align="center"> Viscera Cleanup Detail <img width="55" height="" src="/assets/icons/os.png"></h1>
+<h1 align="center"> Viscera Cleanup Detail <img width="55" height="" src="_layouts/assets/icons/os.png"></h1>
 <h4 align="center">Steam Play Linux</h4>
 <br>
 
 S.O | Pasta Save Game
 ------------ | -------------  
-<img width="25" height="" src="/assets/icons/linux.png">|steamapps/common/Viscera/Saves/
-<img width="25" height="" src="/assets/icons/windows.png">|steamapps\common\Viscera\Saves
+<img width="25" height="" src="_layouts/assets/icons/linux.png">|steamapps/common/Viscera/Saves/
+<img width="25" height="" src="_layouts/assets/icons/windows.png">|steamapps\common\Viscera\Saves
 
 <br>
 

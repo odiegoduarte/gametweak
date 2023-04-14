@@ -1,4 +1,4 @@
-<h1 align="center"> BioShock Remastered <img width="30" height="" src="/assets/icons/linux.png"></h1>
+<h1 align="center"> BioShock Remastered <img width="30" height="" src="_layouts/assets/icons/linux.png"></h1>
 <h4 align="center">Steam Play - Argumentos para bypass no Laucher da 2K</h4>
 <br>
 

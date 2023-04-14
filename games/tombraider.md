@@ -1,11 +1,11 @@
-<h1 align="center"> Tomb Raider (2013) <img width="55" height="" src="/assets/icons/os.png"></h1>
+<h1 align="center"> Tomb Raider (2013) <img width="55" height="" src="_layouts/assets/icons/os.png"></h1>
 <h4 align="center"></h4>
 <br>
 
 S.O | Pasta Save Game - Steam Cloud Sync
 ------------ | -------------  
-<img width="25" height="" src="/assets/icons/linux.png">|[Steam-folder]/userdata/[user-id]/203160/
-<img width="25" height="" src="/assets/icons/windows.png">|~/.local/share/feral-interactive/Tomb Raider/SaveData/
+<img width="25" height="" src="_layouts/assets/icons/linux.png">|[Steam-folder]/userdata/[user-id]/203160/
+<img width="25" height="" src="_layouts/assets/icons/windows.png">|~/.local/share/feral-interactive/Tomb Raider/SaveData/
 
 <br>
 

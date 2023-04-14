@@ -1,6 +1,6 @@
 <br>
 
-<h1 align="center">Game Tweak <img width="50" height="" src="/assets/icons/os.png"> </h1>
+<h1 align="center">Game Tweak <img width="50" height="" src="_layouts/assets/icons/os.png"> </h1>
 
 <br>
 
@@ -37,22 +37,22 @@ Valheim | F5 para abrir o console | [Ir para pagina de Tweak](/games/valheim.md)
 
 Jogos | Argumentos | S.O
 ------------ | -------------| -------------
-CS GO |-novid -forcenovsync -nojoy -high -full | <img width="50" height="" src="/assets/icons/os.png">
-Dota 2 |-novid -vunkan -w 2560 -h 1080  | <img width="50" height="" src="/assets/icons/os.png">
-BioShock Remastered | [Argumentos ->](/games/bioShockargumentos.md) | <img width="25" height="" src="/assets/icons/linux.png">
-BioShock Remastered 2| [Argumentos ->](/games/bioShockargumentos.md) | <img width="25" height="" src="/assets/icons/linux.png">
-BioShock Infinite | [Argumentos ->](/games/bioShockargumentos.md) | <img width="25" height="" src="/assets/icons/linux.png">
-Gris | -window-mode exclusive | <img width="50" height="" src="/assets/icons/os.png">
-Left 4 Dead 2 |-novid -language portuguese brasil | <img width="50" height="" src="/assets/icons/os.png">
-Team Fortress 2 | -novid | <img width="50" height="" src="/assets/icons/os.png">
-The Forest | PROTON_NO_FSYNC=1 taskset -c 0,1,2,3 %command% | <img width="25" height="" src="/assets/icons/linux.png">
-Valheim | -console|  <img width="50" height="" src="/assets/icons/os.png">
-Splitgate | -windowed | <img width="50" height="" src="/assets/icons/os.png">
-[Jogo]() | argumentos | <img width="25" height="" src="/assets/icons/linux.png"> <img width="23" height="" src="/assets/icons/windows.png">
+CS GO |-novid -forcenovsync -nojoy -high -full | <img width="50" height="" src="_layouts/assets/icons/os.png">
+Dota 2 |-novid -vunkan -w 2560 -h 1080  | <img width="50" height="" src="_layouts/assets/icons/os.png">
+BioShock Remastered | [Argumentos ->](/games/bioShockargumentos.md) | <img width="25" height="" src="_layouts/assets/icons/linux.png">
+BioShock Remastered 2| [Argumentos ->](/games/bioShockargumentos.md) | <img width="25" height="" src="_layouts/assets/icons/linux.png">
+BioShock Infinite | [Argumentos ->](/games/bioShockargumentos.md) | <img width="25" height="" src="_layouts/assets/icons/linux.png">
+Gris | -window-mode exclusive | <img width="50" height="" src="_layouts/assets/icons/os.png">
+Left 4 Dead 2 |-novid -language portuguese brasil | <img width="50" height="" src="_layouts/assets/icons/os.png">
+Team Fortress 2 | -novid | <img width="50" height="" src="_layouts/assets/icons/os.png">
+The Forest | PROTON_NO_FSYNC=1 taskset -c 0,1,2,3 %command% | <img width="25" height="" src="_layouts/assets/icons/linux.png">
+Valheim | -console|  <img width="50" height="" src="_layouts/assets/icons/os.png">
+Splitgate | -windowed | <img width="50" height="" src="_layouts/assets/icons/os.png">
+[Jogo]() | argumentos | <img width="25" height="" src="_layouts/assets/icons/linux.png"> <img width="23" height="" src="_layouts/assets/icons/windows.png">
 
 <br> <br>
 
-### <img width="25" height="" src="/assets/icons/linux.png"> Runtime Proton Steam Play
+### <img width="25" height="" src="_layouts/assets/icons/linux.png"> Runtime Proton Steam Play
 
 <br>
 
@@ -89,7 +89,7 @@ scale=x | dimensiona o HUD por um fator de x(por exemplo 1.5)
 
 <br>
 
-### <img width="50" height="" src="/assets/icons/os.png"> Opções de inicialização Source
+### <img width="50" height="" src="_layouts/assets/icons/os.png"> Opções de inicialização Source
 
 > *Goldsrc, Source e Source 2*
 
@@ -105,7 +105,7 @@ Comando | Descrição
 
 <br>
 
-### <img width="50" height="" src="/assets/icons/os.png"> Opções de inicialização Unity3d
+### <img width="50" height="" src="_layouts/assets/icons/os.png"> Opções de inicialização Unity3d
 
 > *Argumentos de linha de comando do Unity Standalone Player*
 

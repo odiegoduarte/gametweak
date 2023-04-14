@@ -1,5 +1,5 @@
 
-<h1 align="center"> Valheim <img width="55" height="" src="/assets/icons/os.png"></h1>
+<h1 align="center"> Valheim <img width="55" height="" src="_layouts/assets/icons/os.png"></h1>
 <h4 align="center">Dentro do jogo aperte F5 para abrir o console</h4>
 <br>
 
@@ -7,8 +7,8 @@
 
  S.O | Pasta Save Game
 ------------ | -------------  
- <img width="25" height="" src="/assets/icons/linux.png">|~/.config/unity3d/IronGate/Valheim/prefs
-<img width="25" height="" src="/assets/icons/windows.png">|\AppData\LocalLow\IronGate\Valheim\
+ <img width="25" height="" src="_layouts/assets/icons/linux.png">|~/.config/unity3d/IronGate/Valheim/prefs
+<img width="25" height="" src="_layouts/assets/icons/windows.png">|\AppData\LocalLow\IronGate\Valheim\
 
 
 <br>
