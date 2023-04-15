@@ -32,14 +32,14 @@
 
 Nome | Descrição |  | S.O
 ------------ | -------------  | -------------  | -------------
-BepInExPack Valheim | Pacote BepInEx para Valheim mod base | [Baixar](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/) | <img width="50" height="" src="/assets/icons/os.png">
-ConfigurationManager | Edite suas configurações no jogo | [Baixar](https://valheim.thunderstore.io/package/cjayride/ConfigurationManager/) | <img width="50" height="" src="/assets/icons/os.png">
-r2modman | Gerenciador de mods  | [Baixar](https://valheim.thunderstore.io/package/ebkr/r2modman/) | <img width="50" height="" src="/assets/icons/os.png">
-ValheimPlus | Adiciona várias melhorias e recursos | [Baixar](https://valheim.thunderstore.io/package/ValheimPlus/ValheimPlus/) | <img width="50" height="" src="/assets/icons/os.png">
-ValheimFPSPlus | Permite que você altere as configurações graficas extras | [Baixar](https://valheim.thunderstore.io/package/KillerGoldFisch/ValheimFPSPlus/) | <img width="50" height="" src="/assets/icons/os.png">
-BetterUI Reforged | Personalize interface do jogo | [Baixar](https://valheim.thunderstore.io/package/thedefside/BetterUI_Reforged/) | <img width="50" height="" src="/assets/icons/os.png">
-InventoryTweaks | Gestão do inventário dividir, mover, agrupar e etc | [Baixar](https://valheim.thunderstore.io/package/CPCS/MakoMod_InventoryTweaks/) | <img width="50" height="" src="/assets/icons/os.png">
-BetterNetworking | Melhore o desempenho do multijogador | [Baixar](https://valheim.thunderstore.io/package/CW_Jesse/BetterNetworking_Valheim/) | <img width="50" height="" src="/assets/icons/os.png">
+BepInExPack Valheim | Pacote BepInEx para Valheim mod base | [Baixar](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/) | <img width="50" height="" src="../assets/icons/os.png">
+ConfigurationManager | Edite suas configurações no jogo | [Baixar](https://valheim.thunderstore.io/package/cjayride/ConfigurationManager/) | <img width="50" height="" src="../assets/icons/os.png">
+r2modman | Gerenciador de mods  | [Baixar](https://valheim.thunderstore.io/package/ebkr/r2modman/) | <img width="50" height="" src="../assets/icons/os.png">
+ValheimPlus | Adiciona várias melhorias e recursos | [Baixar](https://valheim.thunderstore.io/package/ValheimPlus/ValheimPlus/) | <img width="50" height="" src="../assets/icons/os.png">
+ValheimFPSPlus | Permite que você altere as configurações graficas extras | [Baixar](https://valheim.thunderstore.io/package/KillerGoldFisch/ValheimFPSPlus/) | <img width="50" height="" src="../assets/icons/os.png">
+BetterUI Reforged | Personalize interface do jogo | [Baixar](https://valheim.thunderstore.io/package/thedefside/BetterUI_Reforged/) | <img width="50" height="" src="../assets/icons/os.png">
+InventoryTweaks | Gestão do inventário dividir, mover, agrupar e etc | [Baixar](https://valheim.thunderstore.io/package/CPCS/MakoMod_InventoryTweaks/) | <img width="50" height="" src="../assets/icons/os.png">
+BetterNetworking | Melhore o desempenho do multijogador | [Baixar](https://valheim.thunderstore.io/package/CW_Jesse/BetterNetworking_Valheim/) | <img width="50" height="" src="../assets/icons/os.png">
 
 <br><br>
 <h1 align="center"> Comandos Console </h1>

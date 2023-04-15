@@ -1,5 +1,5 @@
 
-<h1 align="center">7 Days to Die Tweak <img width="55" height="" src="/assets/icons/os.png"></h1>
+<h1 align="center">7 Days to Die Tweak <img width="55" height="" src="../assets/icons/os.png"></h1>
 <h4 align="center">Dentro do jogo aperte F1 para abrir o console</h4>
 <br><br>
 
