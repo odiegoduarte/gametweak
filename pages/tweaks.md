@@ -5,14 +5,12 @@
 
 ### Lista de jogos
 
-- [7 Daysto Die](../pages/games/7dtd.md)
-- [BioShock Remastered](../pages/games/bioShockremastered.md)
-- [CS GO](../pages/games/csgo.md)
-- [El Matador](../pages/games/elmatador.md)
-- [Tomb Raider](../pages/games/tombraider.md)
-- [Valheim](../pages/games/valheim.md)
-- [Viscera Cleanup](../pages/games/vcd.md)
+- [7 Daysto Die](../games/7dtd.md)
+- [BioShock Remastered](../games/bioShockremastered.md)
+- [CS GO](../games/csgo.md)
+- [El Matador](../games/elmatador.md)
+- [Tomb Raider](../games/tombraider.md)
+- [Valheim](../games/valheim.md)
+- [Viscera Cleanup](../games/vcd.md)
 
-
-
-<br><br>
+<br><br><br><br><br>
