@@ -1,11 +1,12 @@
-<h1 align="center"> BioShock Remastered <img width="55" height="" src="_layouts/assets/icons/os.png"></h1>
-<h4 align="center">Steam Play Linux</h4>
 <br>
+<h1 align="center"> BioShock Remastered <img width="55" height="" src="../assets/icons/os.png"></h1>
+<h4 align="center">Steam Play</h4>
+<br><br>
 
-S.O | Pasta Save Game
------------- | -------------  
-<img width="25" height="" src="_layouts/assets/icons/linux.png">|/steamapps/compatdata/409710/pfx
-<img width="25" height="" src="_layouts/assets/icons/windows.png">|%APPDATA%\BioshockHD\Bioshock\
+### Pasta Save Game
+
+- <img width="18" height="" src="../assets/icons/linux.png"> /steamapps/compatdata/409710/pfx
+- <img width="18" height="" src="../assets/icons/windows.png"> %APPDATA%\BioshockHD\Bioshock\
 
 <br>
 
@@ -20,12 +21,13 @@ bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Build\/Final\/BioshockHD.exe}
 
 - Download da tradução [Tribo Gamer](https://tribogamer.com/noticias/42393_traducao-bioshock-remastered.html)
 - Copiar o arquivo "Localizedint" para:
-- <img width="17" height="" src="/assets/icons/linux.png"> "/steamapps/common/BioShock Remastered/ContentBaked/pc"
-- <img width="17" height="" src="/assets/icons/windows.png"> "\Steam\steamapps\common\BioShock Remastered\ContentBaked\pc"
+
+- <img width="17" height="" src="../assets/icons/linux.png"> "/steamapps/common/BioShock Remastered/ContentBaked/pc"
+- <img width="17" height="" src="../assets/icons/windows.png"> "\Steam\steamapps\common\BioShock Remastered\ContentBaked\pc"
 
 <br>
 
-### <img width="40" height="" src="/assets/icons/os.png"> Fix e Tweaks
+### <img width="40" height="" src="../assets/icons/os.png"> Fix e Tweaks
 
 - Editar o Arquivo Default.ini
 - /steamapps/common/BioShock Remastered/Build/Final/
@@ -50,7 +52,7 @@ CacheSizeMegs=512
 
 <br>
 
-### <img width="40" height="" src="/assets/icons/os.png"> GUI Mod Bioshock
+### <img width="40" height="" src="../assets/icons/os.png"> GUI Mod Bioshock
 
 - Baixar o mod no site moddb [GUI for BioShock](https://www.moddb.com/mods/a-gui-mod-for-bioshock-remastered)
 - Copiar os arquivos da pasta "FlashMovies" para o diretório
@@ -60,7 +62,8 @@ CacheSizeMegs=512
 
 ### Referências
 
-
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/BioShock_Remastered)
 - [GamingOnLinux](https://www.gamingonlinux.com/2022/09/various-bioshock-games-get-a-2k-launcher-calling-it-a-quality-of-life-update/)
 - [ProtonDB](https://www.protondb.com/app/409710)
+
+<br><br><br>

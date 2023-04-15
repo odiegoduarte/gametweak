@@ -1,15 +1,18 @@
-
-<h1 align="center">Counter-Strike: Global Offensive <img width="55" height="" src="_layouts/assets/icons/os.png"></h1>
+<br>
+<h1 align="center">Counter-Strike: Global Offensive <img width="55" height="" src="../assets/icons/os.png"></h1>
 <h4 align="center">Dentro do jogo aperte " para abrir o console</h4>
+<br><br>
+
+SO | Opções de Inicialização
+------------ | -------------
+<img width="18" height="" src="../assets/icons/linux.png">| -novid -forcenovsync -nojoy -high -full -vulkan
+<img width="35" height="" src="../assets/icons/os.png">| -novid -forcenovsync -nojoy -high -full
+
+<br><br><br>
+
+### Comandos para executar no console dentro do jogo.
 
 <br>
-
-Opções de Inicialização | S.O
--------------| -------------
--novid -forcenovsync -nojoy -high -full -vulkan | <img width="25" height="" src="_layouts/assets/icons/linux.png">
--novid -forcenovsync -nojoy -high -full | <img width="50" height="" src="/_layouts/assets/icons/os.png">
-
-<br> 
 
 Comandos | Descrição
 ------------ | -------------
@@ -57,3 +60,5 @@ Recoil Master Training | https://steamcommunity.com/sharedfiles/filedetails/?id=
 - [Counter-Strike: Global Offensive Workshop](https://steamcommunity.com/app/730/workshop/)
 - [Todos os Comandos do CSGO](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars)
 - [Total CSGO Commands List](https://totalcsgo.com/commands)
+
+<br><br><br><br>

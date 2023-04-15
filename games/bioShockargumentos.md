@@ -1,7 +1,7 @@
-<h1 align="center"> BioShock Remastered <img width="30" height="" src="_layouts/assets/icons/linux.png"></h1>
+<br>
+<h1 align="center"> BioShock Remastered <img width="30" height="" src="../assets/icons/linux.png"></h1>
 <h4 align="center">Steam Play - Argumentos para bypass no Laucher da 2K</h4>
 <br>
-
 
 #### BioShock Remastered 1
 ~~~
@@ -19,7 +19,7 @@ bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Build\/Final\/Bioshock2HD.exe
 bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Binaries\/Win32\/BioShockInfinite.exe}"' -- %command% -nointro
 ~~~
 
-<br><br>
+<br>
 
 ### Referências
 
@@ -27,3 +27,5 @@ bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Binaries\/Win32\/BioShockInfi
 - [ProtonDB BioShock Remastered](https://www.protondb.com/app/409710)
 - [ProtonDB BioShock 2 Remastered](https://www.protondb.com/app/409720)
 - [ProtonDB Infinite](https://www.protondb.com/app/8870)
+
+<br><br><br>

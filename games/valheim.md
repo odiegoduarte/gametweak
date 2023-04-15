@@ -1,15 +1,12 @@
-
-<h1 align="center"> Valheim <img width="55" height="" src="_layouts/assets/icons/os.png"></h1>
+<br>
+<h1 align="center"> Valheim <img width="55" height="" src="../assets/icons/os.png"></h1>
 <h4 align="center">Dentro do jogo aperte F5 para abrir o console</h4>
-<br>
+<br><br>
 
-<br>
+### Pasta Save Game
 
- S.O | Pasta Save Game
------------- | -------------  
- <img width="25" height="" src="_layouts/assets/icons/linux.png">|~/.config/unity3d/IronGate/Valheim/prefs
-<img width="25" height="" src="_layouts/assets/icons/windows.png">|\AppData\LocalLow\IronGate\Valheim\
-
+- <img width="18" height="" src="../assets/icons/linux.png"> ~/.config/unity3d/IronGate/Valheim/prefs
+- <img width="18" height="" src="../assets/icons/windows.png"> \AppData\LocalLow\IronGate\Valheim\
 
 <br>
 
@@ -23,13 +20,15 @@
 
 <br>
 
-Opções de inicialização | Descrição | S.O
------------- | -------------  | -------------  
--console | Abilita o console | <img width="50" height="" src="/assets/icons/os.png">
-./start_game_bepinex.sh %command% | Inicia o jogo e o mod bepinex | <img width="25" height="" src="/assets/icons/linux.png">
-./start_game_bepinex.sh %command% -console | Jogar com mods e console | <img width="25" height="" src="/assets/icons/linux.png">
+|<img width="18" height="" src="../assets/icons/linux.png"> Opções de inicialização | | 
+------------ | -------------  
+-console | Abilita o console
+./start_game_bepinex.sh %command% | Inicia o jogo e o mod bepinex
+./start_game_bepinex.sh %command% -console | Jogar com mods e console
 
-### Mods
+<br>
+
+### <img width="40" height="" src="../assets/icons/os.png"> Mods
 
 Nome | Descrição |  | S.O
 ------------ | -------------  | -------------  | -------------
@@ -42,9 +41,9 @@ BetterUI Reforged | Personalize interface do jogo | [Baixar](https://valheim.thu
 InventoryTweaks | Gestão do inventário dividir, mover, agrupar e etc | [Baixar](https://valheim.thunderstore.io/package/CPCS/MakoMod_InventoryTweaks/) | <img width="50" height="" src="/assets/icons/os.png">
 BetterNetworking | Melhore o desempenho do multijogador | [Baixar](https://valheim.thunderstore.io/package/CW_Jesse/BetterNetworking_Valheim/) | <img width="50" height="" src="/assets/icons/os.png">
 
-<br>
-
+<br><br>
 <h1 align="center"> Comandos Console </h1>
+<br>
 
 ### Admin Server
 
@@ -56,7 +55,6 @@ banned | Listar jogadores banidos
 kick   | Expulsar jogador
 ping | Mostra o ping
 fly | Alterna voar
-
 
 ### Personagem
 
@@ -82,10 +80,12 @@ resetmap | Redefinir exploração do mapa
 resetsharedmap | Remove todos os dados de mapa compartilhados da tabela de cartografia
 recall [name]| Chama de volta todos os jogadores para você, ou nome correspondente, se especificado
 
-<br>
+<br><br>
 
 ### Referências
 
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Valheim)
 - [IGN Wiki All Commands](https://www.ign.com/wikis/valheim/Cheats_and_Codes_List_(Console_Commands))
 - [valheim Mods](https://valheim.thunderstore.io/)
+
+<br><br><br>
