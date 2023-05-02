@@ -11,8 +11,17 @@
 <br>
 
 ### Argumento de inicialização bypass no Laucher da 2K
+
+> *OBS: Argumento "-nointro" é opcional serve pra pular vídeos de introdução*.
+
+- <img width="18" height="" src="../assets/icons/linux.png"> SteamPlay
 ~~~
 bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Build\/Final\/BioshockHD.exe}"' -- %command% -nointro
+~~~
+
+- <img width="18" height="" src="../assets/icons/windows.png"> Windows
+~~~
+"<path-to-game>\BioShockHD.exe" -run %command% -nointro
 ~~~
 
 <br>

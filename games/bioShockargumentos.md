@@ -3,19 +3,20 @@
 <h4 align="center">Steam Play - Argumentos para bypass no Laucher da 2K</h4>
 <br>
 
+> *OBS: Argumento "-nointro" é opcional serve pra pular vídeos de introdução*.
+
 #### BioShock Remastered 1
-~~~
+~~~sh
 bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Build\/Final\/BioshockHD.exe}"' -- %command% -nointro
 ~~~
 
 #### BioShock Remastered 2
-~~~
-
+~~~sh
 bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Build\/Final\/Bioshock2HD.exe}"' -- %command% -nointro
 ~~~
 
 #### BioShock Infinite
-~~~
+~~~sh
 bash -c 'exec "${@/2KLauncher\/LauncherPatcher.exe/Binaries\/Win32\/BioShockInfinite.exe}"' -- %command% -nointro
 ~~~
 

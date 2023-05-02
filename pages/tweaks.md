@@ -7,6 +7,7 @@
 
 - [7 Daysto Die](../games/7dtd.md)
 - [BioShock Remastered](../games/bioShockremastered.md)
+- [BioShock 2 Remastered](../games/bioShock2remastered.md)
 - [CS GO](../games/csgo.md)
 - [El Matador](../games/elmatador.md)
 - [Tomb Raider](../games/tombraider.md)
